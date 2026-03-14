@@ -7,11 +7,11 @@
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
         </Key>
-        <Key ID="STR_ls_modules_dispenserGroup_group_label">
-            <English>Group</English>
+        <Key ID="STR_ls_modules_addedReinsertAction">
+            <English>Added reinsert action to object</English>
         </Key>
-        <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
-            <English>Select what group will be spawned by the droid dispenser when it activates</English>
+        <Key ID="STR_ls_modules_deletedGroups">
+            <English>Deleted %1 local empty groups</English>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
@@ -19,8 +19,14 @@
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
         </Key>
-        <Key ID="STR_ls_modules_radius_tooltip">
-            <English>Radius in meters</English>
+        <Key ID="STR_ls_modules_dispenserGroup_group_label">
+            <English>Group</English>
+        </Key>
+        <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
+            <English>Select what group will be spawned by the droid dispenser when it activates</English>
+        </Key>
+        <Key ID="STR_ls_modules_dispenserGroup_noGroup">
+            <English>No group selected!</English>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
@@ -86,6 +92,15 @@
             <Chinese>單位必須是步兵</Chinese>
             <Chinesesimp>单位必须是步兵</Chinesesimp>
             <Hungarian>Csak járműben kívül lévő egységeken használni</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_radius_tooltip">
+            <English>Search radius in meters</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnLimit_label">
+            <English>Spawn Limit</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnLimit_tooltip">
+            <English>Stops after spawning X units.\n-1 = unlimited</English>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
