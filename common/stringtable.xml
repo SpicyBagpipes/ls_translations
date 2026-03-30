@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <Key ID="STR_ls_common_couldntFit">
+            <English>Could not fit items into container, check nearby on the ground</English>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
             <English>Disabled</English>
