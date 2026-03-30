@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons_grenades">
-        <Key ID="STR_ls_weapons_grenades_c22_description">
-            <English>Type: Fragmentation Grenade&lt;br/&gt;Double click to set timer.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_c22_displayName">
-            <English>C-22 Fragmentation Grenade</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_c22_displayNameShort">
-            <English>C-22</English>
-        </Key>
         <Key ID="STR_ls_weapons_grenades_chemlightBlue_displayName">
             <English>Chemlight (Blue)</English>
         </Key>
@@ -36,27 +27,6 @@
         </Key>
         <Key ID="STR_ls_weapons_grenades_chemlightRed_displayNameShort">
             <English>Red Light</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_cryoban_description">
-            <English>Type: Fire-suppressant Grenade&lt;br/&gt;Can cause frostbite and damage electronic components.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_cryoban_displayName">
-            <English>Cryoban Grenade</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_cryoban_displayNameShort">
-            <English>Cryoban</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_flashbang_9bang_displayName">
-            <English>Flash Grenade (9-bang)</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_flashbang_9bang_displayNameShort">
-            <English>Flash (9-bang)</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_flashbang_description">
-            <English>Type: Non-lethal Grenade&lt;br/&gt;Causes blindness, deafness, tinnitus, and disrupts droid sensors.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
-        </Key>
-        <Key ID="STR_ls_weapons_grenades_flashbang_displayName">
-            <English>Flash Grenade</English>
         </Key>
         <Key ID="STR_ls_weapons_grenades_n20_description">
             <English>Type: Offensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
