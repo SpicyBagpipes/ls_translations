@@ -7,14 +7,14 @@
         <Key ID="STR_ls_grenades_c22_displayName">
             <English>C-22 Fragmentation Grenade</English>
         </Key>
-        <Key ID="STR_ls_grenades_c22_explosive_displayName">
-            <English>C-22 Fragmentation Grenade (Placeable)</English>
-        </Key>
         <Key ID="STR_ls_grenades_c22_displayNameShort">
             <English>C-22</English>
         </Key>
         <Key ID="STR_ls_grenades_c22_explosive_description">
             <English>Type: Fragmentation Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+        </Key>
+        <Key ID="STR_ls_grenades_c22_explosive_displayName">
+            <English>C-22 Fragmentation Grenade (Placeable)</English>
         </Key>
         <Key ID="STR_ls_grenades_convertToPlaceable">
             <English>Convert to Placeable</English>
