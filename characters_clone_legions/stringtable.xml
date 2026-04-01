@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_clone_legions">
+        <Key ID="STR_ls_characters_clone_legions_clone_AT">
+            <English>Clone Trooper (AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_DC15S">
+            <English>Clone Trooper (DC-15S)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_arcPilot">
+            <English>Clone Pilot (ARC-170)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_breacher">
+            <English>Clone Trooper (Breacher)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_captain">
+            <English>Clone Captain</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_captain">
+            <English>Clone Captain</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_commander">
+            <English>Clone Commander</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_demo">
+            <English>Clone Demolitions Expert</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_heavyAA">
+            <English>Clone Trooper (Missile AA)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_heavyAT">
+            <English>Clone Trooper (Missile AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_lieutenant">
+            <English>Clone Lieutenant</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_medic">
+            <English>Clone Medic</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_officer">
+            <English>Clone Officer</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_pilot">
+            <English>Clone Pilot</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_rto">
+            <English>Clone Trooper (RTO)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_scout">
+            <English>Clone Scout Trooper</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_sergeant">
+            <English>Clone Sergeant</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_sniper">
+            <English>Clone Sniper</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_supportGunner">
+            <English>Clone Support Gunner</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_vwingPilot">
+            <English>Clone Pilot (V-Wing)</English>
+        </Key>
+    </Package>
+</Project>
