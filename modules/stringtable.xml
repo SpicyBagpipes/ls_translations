@@ -84,7 +84,7 @@
             <French>Placer sur une unité.</French>
             <Spanish>Nada bajo el ratón</Spanish>
             <Italian>Piazza su una unità</Italian>
-            <Polish>Nie ma nic pod kursorem</Polish>
+            <Polish>Użyj na jednostce</Polish>
             <Portuguese>Coloque em uma unidade</Portuguese>
             <Russian>Ничего не выделено</Russian>
             <German>Es wurde nichts ausgewählt</German>
@@ -102,7 +102,7 @@
             <French>L'unité doit être vivante.</French>
             <Spanish>Utilizar solo en unidades vivas</Spanish>
             <Italian>Si può fare solo su unità vive</Italian>
-            <Polish>Używaj tylko na żywych jednostkach</Polish>
+            <Polish>Jednostka musi być żywa</Polish>
             <Portuguese>Unidade deve estar viva</Portuguese>
             <Russian>Применимо только к живым юнитам</Russian>
             <German>Einheit muss lebendig sein.</German>
@@ -120,7 +120,7 @@
             <French>L'unité doit être un fantassin.</French>
             <Spanish>Utilizar solo en infanteria desmontada</Spanish>
             <Italian>Si può usare solo su fanteria a piedi</Italian>
-            <Polish>Używaj tylko na piechocie poza wszelkimi pojazdami</Polish>
+            <Polish>Jednostka musi być piechotą</Polish>
             <Portuguese>Unidade deve ser uma infantaria desmontada</Portuguese>
             <Russian>Применимо только к пехоте вне техники</Russian>
             <German>Nur bei abgesessener Infanterie verwendbar</German>
