@@ -59,6 +59,7 @@
         </Key>
         <Key ID="STR_ls_common_jabiim">
             <English>Jabiim</English>
+            <Polish>Jabiim</Polish>
         </Key>
         <Key ID="STR_ls_common_jediOrder">
             <English>Jedi Order</English>
@@ -70,6 +71,7 @@
         </Key>
         <Key ID="STR_ls_common_memefor">
             <English>Memefor</English>
+            <Polish>Memefor</Polish>
         </Key>
         <Key ID="STR_ls_common_mercenaries">
             <English>Mercenaries</English>
